@@ -63,7 +63,8 @@ git push [alias] [branch] # Transmits local branch commits to the remote reposit
 git pull # Fetches and merges commits from the tracking remote branch.
 
 git rebase [branch] # Applies commits of the current branch ahead of the specified one.
-git reset --hard [commit] # Clears the staging area and rewrites the working tree from the specified commit.
+git reset --hard [commit] # Clears the staging area and rewrites the working tree from the specified commit. 
+
 
 
 git stash # Saves modified and staged changes.
