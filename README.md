@@ -6,11 +6,11 @@ html
   <li>
     The first command is:  
     <pre><code class="language-bash">git init</code></pre>
-    <!-- It is useful for making a new repo with the same name as the folder. -->
+    <b>It is useful for making a new repo with the same name as the folder.</b>
   </li>
   <li>
     The second command is:  
     <pre><code class="language-bash">git add .</code></pre>
-    <!-- Use . to add all files, or specify filenames. -->
+    <B>Use . to add all files, or specify filenames.</B>
   </li>
 </ul>
