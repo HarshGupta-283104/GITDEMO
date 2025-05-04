@@ -1,7 +1,6 @@
 
 #### 💡 Option 2: Hybrid (HTML List + Proper Markdown)
 
-html
 <ul>
   <li>
     The first command is:  
