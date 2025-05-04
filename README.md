@@ -9,7 +9,7 @@
     </li>
     <li>
         The second is to add so the command is <br>
-        ``bash git add .
+        ``bash git`` add .
         <!-- If you want to add all the file then use . otherwise use name of the file to add in git. -->
     </li>
  </ul>
