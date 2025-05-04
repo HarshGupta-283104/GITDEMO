@@ -1,15 +1,16 @@
-<!-- This Repo is represt the How to handle Git and GitHub properly.  -->
- <ul>
-    <li>
-        The first Command is <br>
-        ``bash 
-        git init
-        <!-- It  is useful for the making new repo as the same name as folder. It will initiate the repo. There is no need to make the repo by gh creat new repo name --public it will may be private or not Let take step forward-->
 
-    </li>
-    <li>
-        The second is to add so the command is <br>
-        ``bash git`` add .
-        <!-- If you want to add all the file then use . otherwise use name of the file to add in git. -->
-    </li>
- </ul>
+#### 💡 Option 2: Hybrid (HTML List + Proper Markdown)
+
+```html
+<ul>
+  <li>
+    The first command is:  
+    <pre><code class="language-bash">git init</code></pre>
+    <!-- It is useful for making a new repo with the same name as the folder. -->
+  </li>
+  <li>
+    The second command is:  
+    <pre><code class="language-bash">git add .</code></pre>
+    <!-- Use . to add all files, or specify filenames. -->
+  </li>
+</ul>
