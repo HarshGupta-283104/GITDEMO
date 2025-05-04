@@ -1,5 +1,5 @@
 
-## **💡 Option 2: Hybrid (HTML List + Proper Markdown)**
+# **💡 Option 2: Hybrid (HTML List + Proper Markdown)**
 
 <ul>
   <li>
