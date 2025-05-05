@@ -5,4 +5,5 @@
 1. Now I will tracked this file to the github and then save it.
 2. By using git add . . I will add it. 
 3. Then I will Commit all the changes. So in my contribution table it will show the today's contribution.
- 4. I have changed the branch 
+ 4. I have changed the branch name from master to main.
+ 5. Yesterday I have merged all the branch. I have created two branch master that is default and other one is main ok.
