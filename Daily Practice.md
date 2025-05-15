@@ -11,3 +11,4 @@
 
 <li> Now Started new addition.
 1. If Want to make new repo by bash Just follow these steps.
+  <li> Run gh repo create</li>
