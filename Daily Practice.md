@@ -9,6 +9,8 @@
 5. Yesterday I have merged all the branch. I have created two branch master that is default and other one is main ok.
 6. I have checked the diff command. It used for reviewing the code.
 
-<li> Now Started new addition.
+<li> Now Started new addition. <br>
 1. If Want to make new repo by bash Just follow these steps.
   <li> Run gh repo create</li>
+  <Li> Select the option as you want. Then start the repo.
+  <li> Change the remote origin by git remote add origin link of HTTPS of github.</li>
