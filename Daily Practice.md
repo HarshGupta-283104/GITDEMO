@@ -15,4 +15,4 @@
   <Li> Select the option as you want. Then start the repo.
   <li> Change the remote origin by git remote add origin link of HTTPS of github.</li>
   # This file is created to maintain the overview or contribution graph.
-  
+2. If you want to change the repo remote or You have cloned any other repo on your local device or laptop.
