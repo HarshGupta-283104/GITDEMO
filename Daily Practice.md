@@ -14,3 +14,5 @@
   <li> Run gh repo create</li>
   <Li> Select the option as you want. Then start the repo.
   <li> Change the remote origin by git remote add origin link of HTTPS of github.</li>
+  # This file is created to maintain the overview or contribution graph.
+  
