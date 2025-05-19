@@ -18,5 +18,7 @@
 2. If you want to change the repo remote or You have cloned any other repo on your local device or laptop. And you want to save the changes in other repo or in your new repo.
 <br> Then Follow these Steps
   <li> Just copy the url of https or ssh  </li>
-  <li> then run this command git remote add origin [URL That you coppied or repo Url]</li>
+  <li> then run this command git remote add origin [URL That you coppied or repo Url</li>
+  <br>
+  
   
