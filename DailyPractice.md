@@ -20,5 +20,4 @@
   <li> Just copy the url of https or ssh  </li>
   <li> then run this command git remote add origin [URL That you coppied or repo Url</li>
   <br> 
-  <li> If You are talking about git push then You
   
