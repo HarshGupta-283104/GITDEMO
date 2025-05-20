@@ -21,4 +21,4 @@
   <li> then run this command git remote add origin [URL That you coppied or repo Url</li>
   <br> 
   
-git remote
+git remote  add 
