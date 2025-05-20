@@ -25,7 +25,7 @@ git remote  add [alias] [url] # Adds a Git URL as an alias.
 git fetch [alias] # Downloads all branches from the remote repository.
 git merge [alias]/[branch] # Merges a remote branch into the current branch.
 git push [alias] [branch] # Transmits local branch commits to the remote repository branch.
-.
+git pull # Fetches and merges commits from the tracking remote branch.
 
 
 
