@@ -22,4 +22,6 @@
   <br> 
   
 git remote  add [alias] [url] # Adds a Git URL as an alias.
+git fetch [alias] # Downloads all branches from the remote repository.
+
 
