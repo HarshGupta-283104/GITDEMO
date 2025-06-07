@@ -57,7 +57,7 @@ echo [pattern] >> .gitignore # Adds a pattern to ignore specific files and direc
 git config --global core.excludesfile [file] # Sets a system-wide ignore pattern for all local repositories.
 
 
-git remote add [alias] [url] # Adds a Git URL as an alias.
+git remote add [alias] [url] #  Adds a Git URL as an alias.
 git fetch [alias] # Downloads all branches from the remote repository.
 git merge [alias]/[branch] # Merges a remote branch into the current branch.
 git push [alias] [branch] # Transmits local branch commits to the remote repository branch.
