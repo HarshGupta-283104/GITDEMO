@@ -27,6 +27,9 @@ git merge [alias]/[branch] # Merges a remote branch into the current branch.
 git push [alias] [branch] # Transmits local branch commits to the remote repository branch.
 git pull # Fetches and merges commits from the tracking remote branch.
 
-
+git stash # Saves modified and staged changes.
+git stash list # Lists the stack order of stashed file changes.
+git stash pop # Applies the changes from the top of the stash stack.
+git stash drop # Discards the changes from the top of the stash stack.
 
 
