@@ -72,3 +72,5 @@ git stash # Saves modified and staged changes.
 git stash list # Lists the stack order of stashed file changes.
 git stash pop # Applies the changes from the top of the stash stack.
 git stash drop # Discards the changes from the top of the stash stack.
+```
+fad
